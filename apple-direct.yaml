@@ -1,0 +1,19 @@
+payload:
+  - safebrowsing.urlsec.qq.com
+  - safebrowsing.googleapis.com
+  - +.mzstatic.com
+  - +.itunes.apple.com
+  - +.icloud.com
+  - +.icloud-content.com
+  - +.me.com
+  - +.aaplimg.com
+  - +.cdn20.com
+  - +.cdn-apple.com
+  - +.akadns.net
+  - +.akamaiedge.net
+  - +.edgekey.net
+  - +.mwcloudcdn.com
+  - +.mwcname.com
+  - +.apple.com
+  - +.apple-cloudkit.com
+  - +.apple-mapkit.com
